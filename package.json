@@ -1,0 +1,8 @@
+{
+  "name": "dublin-bus-bridge",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "gtfs-realtime-bindings": "^1.1.1"
+  }
+}
