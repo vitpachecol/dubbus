@@ -1,0 +1,8 @@
+{
+  "name": "dublin-bus-bridge",
+  "main": "src/index.js",
+  "compatibility_date": "2024-08-17",
+  "observability": {
+    "enabled": true
+  }
+}
